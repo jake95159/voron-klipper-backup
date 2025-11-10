@@ -1,0 +1,19 @@
+# Exclude printer-generated files
+printer-*.cfg
+*.bak
+*.bkp
+*~
+
+# Exclude logs
+*.log
+
+# Exclude sensitive data
+*.key
+*.pem
+
+# Exclude large binary files
+*.bin
+*.hex
+
+# Exclude temporary files
+.#*
